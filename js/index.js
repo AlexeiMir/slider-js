@@ -1,3 +1,8 @@
+slider.start()
+
+
+
+/*
 const prevBtn = document.querySelector('.prev-btn')
 const nextBtn = document.querySelector('.next-btn')
 const imageSlider = document.querySelector('.imageSlider')
@@ -30,4 +35,4 @@ prevBtn.addEventListener('click',() => {
         prevBtn.disabled = true
     }
     nextBtn.disabled = false
-})
+})*/
